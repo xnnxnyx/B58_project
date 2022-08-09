@@ -3,7 +3,6 @@
 # CSCB58 Winter 2022 Assembly Final Project
 # University of Toronto, Scarborough
 #
-# Student: Annanya Sharma, 1007113017, shar1902, annanya.sharma@mail.utoronto.ca
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
@@ -27,12 +26,6 @@
 #	a) Pink => refreshes all the hearts 
 #	b) Purple => takes away one heart (you really want to avoid this) 
 #	c) Yellow => changes the colour of the character for that level
-#
-# Link to video demonstration for final submission:
-# https://utoronto.zoom.us/rec/share/lWG3Tcju3fsjLzJeJcXq6z_Xc7EE3KxCI-n2yJoV51IX-2hZ9BleclWW3y6IOEeE.55Wyz9BYAaEA2_-0
-#
-# Are you OK with us sharing the video with people outside course staff?
-# - No
 #
 # Any additional information that the TA needs to know:
 # - The lives refreshes every level.
